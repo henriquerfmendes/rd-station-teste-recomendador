@@ -52,3 +52,7 @@ Execute na raiz do projeto frontend:
 ```bash
 yarn test
 ```
+
+## Exemplo da aplicação
+
+frontend/assets/screenshot.png
