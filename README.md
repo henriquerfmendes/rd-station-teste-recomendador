@@ -55,4 +55,4 @@ yarn test
 
 ## Exemplo da aplicação
 
-frontend/assets/screenshot.png
+![Screenshot da aplicação](frontend/assets/screenshot.png)
